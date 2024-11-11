@@ -1,6 +1,3 @@
-# Thomas J. Purk 
-Software Engineer
-
 ## Technologies
 - Web Applications
   - Node.Js
