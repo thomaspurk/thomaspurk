@@ -30,10 +30,19 @@ I am particularly interested in **Generative AI (GenAI)**, **Natural Language Pr
 
 ## Projects
 
-Most of my professional work is covered under a non-disclosure agreement (NDA) or is considered private as a professional courtesy. New portfolio projects which I can share publicly will be added over time.
+Most of my professional work is covered under a non-disclosure agreement (NDA) or is considered private as a professional courtesy. New portfolio projects that I can share publicly are below and more will be added over time. Thanks for reviewing my work!
 
-- **graph-from-llm** – Demonstrates how a generative AI tool can be used to automate the initial draft of a Semantic Web Ontology.  
-- **project-euler-challenges** – Project Euler offers mathematical and computer programming challenges that encourage participants to develop new skills and find enjoyment in the world of mathematics.   
+- [**python-ml-examples**](https://github.com/thomaspurk/python-ml-examples) - A collection of Jupyter Notebooks (Google Colab) that demonstrate common machine learning Python packages and modules.
+
+- [**python-nlp-llm-examples**](https://github.com/thomaspurk/python-nlp-llm-examples) - A collection of Notebooks Demonstrating Basic NLP tools
+
+- [**ml-demo-911**](https://github.com/thomaspurk/ml-demo-911) - A demonstration of common ML workflow steps and technologies within a simulated scenario.
+
+- [**graph-from-llm**](https://github.com/thomaspurk/graph-from-llm) – Demonstrates how a generative AI tool can be used to automate the initial draft of a Semantic Web Ontology. 
+  
+- [**project-euler-challenges**](https://github.com/thomaspurk/project-euler-challenges) – Project Euler offers mathematical and computer programming challenges that encourage participants to develop new skills and find enjoyment in the world of mathematics. Problems 1-25 completed in JavaScript Node.js.
+  
+- [**project-euler-challenges-py**](https://github.com/thomaspurk/project-euler-challenges-py) - Project Euler Problems 26-50 completed in Python.
 
 ---
 
