@@ -8,12 +8,13 @@ I am particularly interested in **Generative AI (GenAI)**, **Natural Language Pr
 
 ## Technical Skills  
 
-### Artificial Intelligence & NLP 
+### Artificial Intelligence & NLP
+- Agentic AI: LangGraph, LangChain, RAG, Semantic Search
 - GenAI: OpenAI API, Hugging Face API  
 - NLP: Classification, Sentiment Analysis, Summarization, Question Answering, etc.
 
 ### Machine Learning
-- Deep Learning: Fast.ai, PyTorch 
+- Deep Learning: TensorFlow Keras, PyTorch 
 - Python: SciKitLearn, SciPy, NumPy, Pandas, Matplotlib, Seaborn
 - Data Cleaning, Feature Engineering, and Model Evaluation  
 
