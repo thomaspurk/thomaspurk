@@ -25,7 +25,7 @@ I recently completed a 6-month full-time **Professional Development Sabbatical**
 
 ### Datastores 
 - Traditional RDBMS: SQLite, SQL Server, MySQL
-- NoSQL/Graph: MongoDB, RDF, JSON-LD, Semantic Web Ontologies 
+- NoSQL/Graph: MongoDB, RDF, JSON-LD, RDF 
 
 ---
 
