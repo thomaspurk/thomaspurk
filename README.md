@@ -33,17 +33,14 @@ I am particularly interested in **Generative AI (GenAI)**, **Natural Language Pr
 
 Most of my professional work is covered under a non-disclosure agreement (NDA) or is considered private as a professional courtesy. New portfolio projects that I can share publicly are below and more will be added over time. Thanks for reviewing my work!
 
-- [**langgraph-agent-gaia-questions**](https://github.com/thomaspurk/langgraph-agent-gaia-questions/) - Creates an agent that can answer GAIA LLM Assistant evaluation. 
+- [**LangGraph Agent for GAIA Questions**](https://github.com/thomaspurk/langgraph-agent-gaia-questions/) - Creates an agent that can answer GAIA LLM Assistant evaluation. 
 
-- [**python-ml-examples**](https://github.com/thomaspurk/python-ml-examples) - A collection of Jupyter Notebooks (Google Colab) that demonstrate common machine learning Python packages and modules.
+- [**Python GenAI Chat Examples**](https://github.com/thomaspurk/python-gen-ai-chat-examples) - A collection of projects demonstration user prompt and system response chat workflows. Multi-Turn Chat, RAG, Semantic Search.
 
-- [**python-nlp-llm-examples**](https://github.com/thomaspurk/python-nlp-llm-examples) - A collection of Notebooks Demonstrating Basic NLP tools
 
-- [**ml-demo-911**](https://github.com/thomaspurk/ml-demo-911) - A demonstration of common ML workflow steps and technologies within a simulated scenario.
-
-- [**graph-from-llm**](https://github.com/thomaspurk/graph-from-llm) – Demonstrates how a generative AI tool can be used to automate the initial draft of a Semantic Web Ontology. 
+- [**Graph From LLM**](https://github.com/thomaspurk/graph-from-llm) – Demonstrates how a generative AI tool can be used to automate the initial draft of a Semantic Web Ontology. 
   
-- [**project-euler-challenges-py**](https://github.com/thomaspurk/project-euler-challenges-py) - Project Euler Problems 26-50 completed in Python.
+Additional Code Samples - https://github.com/thomaspurk?tab=repositories
 
 ---
 
