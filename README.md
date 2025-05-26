@@ -1,8 +1,10 @@
 # About Me  
 
-I am a software engineer with a problem-solving background and a passion for adopting new technologies. My work involves developing intelligent applications, leveraging NLP technologies, and integrating AI solutions into real-world systems. With experience in deep learning, semantic web technologies, and data science, I focus on building scalable and efficient AI-powered applications.  
+I'm a Software Engineer with 25+ years of experience delivering solutions across diverse domains, technologies, and industries. My career has been defined by adaptability, curiosity, and the persuit of solving real-world problems through digitalization.
 
-I am particularly interested in **Generative AI (GenAI)**, **Natural Language Processing (NLP)**, **Machine Learning**, and **Deep Learning**. My goal is to explore AI's potential for solving complex problems while maintaining a strong foundation in software engineering principles.  
+Over the past two years, I’ve focused on transitioning into the AI/ML space, with a strong emphasis on Generative AI, LLMs, NLP, and Agentic AI. I am particularly interested in **Generative AI (GenAI)**, **Natural Language Processing (NLP)**, **Machine Learning**, and **Deep Learning**.
+
+I recently completed a 6-month full-time **Professional Development Sabbatical** dedicated to mastering core AI concepts and technologies.My goal is to explore AI's potential for solving complex problems while maintaining a strong foundation in software engineering principles.  
 
 ---
 
