@@ -8,8 +8,6 @@ I recently completed a 6-month full-time **Professional Development Sabbatical**
 
 ---
 
-## Technical Skills  
-
 ### Artificial Intelligence & NLP
 - Agentic AI: LangGraph, LangChain, RAG, Semantic Search
 - GenAI: OpenAI API, Hugging Face API  
